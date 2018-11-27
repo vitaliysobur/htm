@@ -1,0 +1,6 @@
+{
+	"name": "htm_hyperapp",
+	"module": "index.mjs",
+	"main": "index.js",
+	"unpkg": "standalone.js"
+}
